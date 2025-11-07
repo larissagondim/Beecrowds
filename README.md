@@ -47,7 +47,7 @@ Here is a list of the problems I have solved so far. This table will be updated 
 
 You can clone this repository to view the solutions locally:
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/larissagondim/Beecrowds.git](https://github.com/your-larissagondim/Beecrowds.git)
 ```
 
 **Disclaimer:** These solutions are intended for educational and reference purposes. Please adhere to the Beecrowd honor code and avoid submitting copied code. The best way to learn is by tackling the challenges yourself!
