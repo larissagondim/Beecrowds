@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int d;
+
+    if (scanf("%d", &d) != 1) return 0;
+
+    printf("%d ano(s)\n", d / 365);
+    d %= 365;
+
+    printf("%d mes(es)\n", d / 30);
+    d %= 30;
+
+    printf("%d dia(s)\n", d);
+
+    return 0;
+}

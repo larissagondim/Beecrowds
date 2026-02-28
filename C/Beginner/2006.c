@@ -1,18 +1,14 @@
 #include <stdio.h>
- 
+
 int main() {
- 
-    int tipo;
-    int valor;
-    int contador = 0;
-    
-    scanf("%d", &tipo);
-    
-    for(int i=0; i<5; i++) {
-        scanf("%d", &valor);
-        if(valor == tipo) contador += 1;
-    }
+    int t, n, i, contador = 0;
+
+    if (scanf("%d", &t) != 1) return 0;
+
+    for (i = 0; i < 5; i++)
+        if (scanf("%d", &n) == 1 && n == t)
+            contador++;
+
     printf("%d\n", contador);
- 
     return 0;
 }
