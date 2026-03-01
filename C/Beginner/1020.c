@@ -2,7 +2,6 @@
 
 int main() {
     int d;
-
     if (scanf("%d", &d) != 1) return 0;
 
     printf("%d ano(s)\n", d / 365);
