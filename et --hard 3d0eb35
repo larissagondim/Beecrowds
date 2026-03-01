@@ -1,0 +1,26 @@
+[33m87c0e65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/master
+[33m87c0e65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: reset: moving to origin/master
+[33m87c0e65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: pull origin master --rebase: Fast-forward
+[33m4e954e0[m HEAD@{3}: rebase (abort): returning to refs/heads/master
+[33m4e954e0[m HEAD@{4}: rebase (abort): returning to refs/heads/master
+[33m3d0eb35[m HEAD@{5}: commit: feat: old c solutions
+[33ma399269[m HEAD@{6}: commit: feat: new cpp solutions
+[33m64dd017[m HEAD@{7}: commit: feat: new math problems
+[33m652810c[m HEAD@{8}: commit: feat: new python solution
+[33m4e954e0[m HEAD@{9}: checkout: moving from 6517e609f094260ac2edf47cf4339425f1d1d4fa to master
+[33m6517e60[m HEAD@{10}: commit: feat: new solutions
+[33m56c9de2[m HEAD@{11}: commit: feat: new cpp solutions in different categories
+[33m0dba6de[m HEAD@{12}: pull --rebase origin master (start): checkout 0dba6de5a6ce6378fc90f6cb61995f8909f62f88
+[33m4e954e0[m HEAD@{13}: commit: feat: new cpp solutions in new categories
+[33mf8233f8[m HEAD@{14}: commit: feat: new cpp solution
+[33m62fefc3[m HEAD@{15}: commit: feat: new cpp solution!
+[33m98cab7a[m HEAD@{16}: commit: feat: new cpp solutions
+[33m2ef2ab9[m HEAD@{17}: commit: feat: new cpp solution
+[33mbf453a0[m HEAD@{18}: commit: feat: new cpp solution
+[33m0a4ffb8[m HEAD@{19}: commit: feat: new C solution
+[33md0043ef[m HEAD@{20}: commit: feat: new C++ solution
+[33m09640d8[m HEAD@{21}: commit: feat: new C solution
+[33m61fa285[m HEAD@{22}: commit: feat: new C solution
+[33mb03cf09[m HEAD@{23}: commit: feat: new C solution
+[33mf98cf6a[m HEAD@{24}: commit: feat: new python solutions
+[33m17cc84a[m HEAD@{25}: clone: from https://github.com/larissagondim/Beecrowds
