@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// coluna verde
 int main(void) {
     int c;
     char t;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// par ou impar
 int main() {
     int par[5], impar[5], i, a, p=0, imp=0;
     int length = sizeof(par) / sizeof(par[0]);
