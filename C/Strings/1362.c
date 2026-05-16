@@ -8,7 +8,6 @@ long long calcular_variacoes(char *senha) {
         char c = tolower(senha[i]);
         if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 's') total *= 3;
         else if (c >= 'a' && c <= 'z') total *= 2;
-        
     }
     return total;
 }
